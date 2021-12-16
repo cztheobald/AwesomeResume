@@ -43,9 +43,6 @@ body {
   width: 60%;
   float: right;
 }
-
-
-
 .reg{
   text-align: left;
   font-family: Arial, Helvetica, sans-serif;
@@ -70,4 +67,12 @@ body {
   flex: 0 0 auto;
   width: 60%;
 }
+}
+.site-heading-upper{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+}
+.section-heading-upper{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
 }
